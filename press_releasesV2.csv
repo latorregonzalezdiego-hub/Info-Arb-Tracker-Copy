@@ -1,0 +1,233 @@
+﻿Week,Ticker,Industry,Date,Title,Type of Press Release,Currency,"Market
+ Cap ","Net 
+Debt","EV
+","S/O
+",Price,TTM Sales ,TTM EPS,"FY + 1 
+EPS","FY + 2
+EPS",EV/TTM SALES,TTM PE,"FY + 1
+PE","FY + 2
+PE",Summary,Positive Insights,Negative Insights,Links,,,,
+1,RMCF,Food: Specialty/Candy,10/13/2025,Rocky Mountain Chocolate Factory Reports Second Quarter Fiscal 2026 Financial Results,Earnings Release,USD,14,7,22,8,1.83,30,-0.38,N/A,N/A,0.72x,N/A,N/A,N/A,"Rocky Mountain Chocolate Factory reported Q2 FY2026 revenue of $6.8M, up from $6.4M last year, with a net loss of $0.7M ($0.09/share). The company continues its business transformation, emphasizing modernization and franchise growth.","1) Revenue growth from pricing and sales mix
+2) ERP/POS upgrades improving visibility and efficiency
+3) Rebrand and new stores in CA, NJ, and upcoming Chicago flagship
+4) Stronger franchise pipeline and leadership focus on execution","1) Net loss unchanged at $0.7M
+2) Gross profit fell to a $33K loss (vs. $600K profit)
+3) Higher input costs and operational inefficiencies pressured margins",https://app.microcapresearch.com/news-feed/720488?news=Rocky-Mountain-Chocolate-Factory-Reports-Second-Quarter-Fiscal-2026-Financial-Results,,,,
+1,WLY,Publishing: Books/Magazines,10/14/2025,Wiley Launches Interoperable Platform to Power Scientific Discovery in World's Leading AI Technologies,New Product/Service,USD,"2,007",843,"2,850",44,37.21,"1,670",2.2,4.00,4.40,1.71x,16.91x,9.30x,8.46x,"Launched the AI Gateway, an AI-native platform that integrates peer-reviewed scholarly content into leading AI systems (Claude, AWS Marketplace, Le Chat, Perplexity), enabling researchers and developers to access validated academic information through AI tools while protecting content integrity.","1) First-mover in AI-integrated scholarly publishing
+2) Major AI partnerships (Anthropic, AWS, Mistral, Perplexity) expand reach
+3) Opens high-margin revenue via data licensing and APIs
+4) Reinforces credibility amid AI misinformation
+5) Strengthens long-term position as a data infrastructure provider","1) Monetization details not disclosed
+2) Execution risk in content integration and accuracy
+3) Rising competition from Elsevier, Springer Nature, and OpenAI
+4) Adoption timeline uncertain
+5) Risk of AI models bypassing paid gateways",https://app.microcapresearch.com/news-feed/720553?news=Wiley-Launches-Interoperable-Platform-to-Power-Scientific-Discovery-in-World%27s-Leading-AI-Technologies,,,,
+1,TSE:CPH,Pharmaceuticals: Other,10/14/2025,Cipher Pharmaceuticals Receives Successful Arbitration Award,Legal Outcome,USD,262,14,276,25,10.35,48,0.2,0.63,0.65,5.80x,51.73x,16.42x,15.92x,"Received a favorable arbitration award against Sun Pharmaceuticals over rights to clinical data for Absorica LD® in Canada. The award grants Cipher CAD $4.24 million in damages, 15% royalties on Canadian sales (2026–2040), and 80% reimbursement of legal costs. Cipher retains ownership of the disputed data, while Sun has filed a limited petition to vacate parts of the ruling.","1) Immediate cash gain and long-term royalty income through 2040
+2) Confirms Cipher’s legal ownership of key clinical data
+3) Defensive win against a much larger partner, improving negotiation leverage
+4) Potential expansion of claims to other jurisdictions using the same data
+5) Demonstrates management’s ability to protect IP and enforce contracts","1) Sun’s petition introduces appeal risk
+2) Payment and royalty timing remain uncertain
+3) One-off event with limited core growth impact
+4) Royalty value depends on Absorica LD® sales in Canada",https://app.microcapresearch.com/news-feed/720775?news=Cipher-Pharmaceuticals-Receives-Successful-Arbitration-Award,,,,
+1,ETCC,Aerospace & Defense,10/14/2025,ETC Announces Fiscal 2026 Second Quarter Results,Earnings Release,USD,11,13,24,16,1.11,70,0.27,N/A,N/A,0.34x,4.11x,N/A,N/A,"Reported Q2 FY2026 results with net income of $1.5M ($0.08/share), down from $1.7M last year, and sales up 20.5% to $17.0M. Growth was led by Aircrew Training Systems (ATS) and Sterilizer Systems, while a $62M backlog positions the company for continued momentum despite higher taxes and costs.","1) Sales increased 21% year-over-year
+2) Gross profit rose 18.8% to $5.0 million
+3) Operating income grew 26% to $2.5 million
+4) ATS and Sterilizer Systems showed strong sales momentum
+5) Strong backlog ($62M) and growth outlook
+","1) Net income declined due to non-cash tax expense from NOL utilization
+2) Gross margin slipped slightly to 29.4%
+3) Interest expense rose 133% to $0.5 million
+4) Operating expenses increased 12.3%
+5) Cash used in operations declined due to higher contract assets",https://app.microcapresearch.com/news-feed/721083?news=ETC-Announces-Fiscal-2026-Second-Quarter-Results,,,,
+1,TSE:IFA,Apparel/Footwear,10/15/2025,iFabric Launches Scrubs Program at Major US Retailer,New Product/Service,CAD,38,1,39,30,1.25,28,0.02,-0.06,N/A,1.42x,62.50x,N/A,N/A,"Announced the U.S. retail launch of its Doctor’s Choice® Next Generation scrubs, incorporating its proprietary PROTX2®, ecoPEL®, and DryTX™ textile technologies. The line, designed for healthcare professionals, offers antimicrobial protection, moisture management, and eco-friendly water repellency. The scrubs will debut online at a major national retailer, with in-store availability by late October 2025.","1) Entry into a major U.S. retailer increases visibility and potential sales volume
+2) Combines multiple proprietary technologies, enhancing differentiation and pricing power
+3) Aligns with environmental sustainability trends via PFC-free water repellency
+4) Expands reach into the lucrative healthcare apparel market","1) No mention of retailer name or scale of order—unclear near-term revenue impact
+2) Initial rollout limited to online; in-store launch timing could affect early momentum
+3) Competitive medical apparel market dominated by established brands like FIGS and Cherokee
+4) Dependence on one retailer could pose concentration risk",https://app.microcapresearch.com/news-feed/721341?news=iFabric-Launches-Scrubs-Program-at-Major-US-Retailer,,,,
+1,CVE:CHS,Packaged Software,10/15/2025,Comprehensive Healthcare Systems Inc. Signs Memorandum of Understanding with Large Health Insurance Administrator for a Five-Year Partnership,Partnerhsip,CAD,10,3,13,14,0.55,6,-0.05,N/A,N/A,2.36x,N/A,N/A,N/A,"Signed a non-binding five-year MOU with a large health insurance administrator in the Taft-Hartley multi-employer union sector. The agreement sets the stage for full-scale implementation of CHS’s Novus360 healthcare benefits and pension administration platform, aiming to enhance operational efficiency, innovation, and growth. Detailed contractual terms are expected soon, marking a strategic milestone in CHS’s expansion into high-volume, technology-driven benefits administration.","1) Five-year partnership provides long-term revenue visibility and stability
+2) Collaboration on Novus360 showcases CHS’s SaaS capabilities to a major client
+3) MOU strengthens credibility in the multi-employer union healthcare market
+4) Potential for expanded services beyond initial implementation over contract term","1) MOU is non-binding; final contract terms remain uncertain
+2) Revenue impact and timeline for implementation are unclear
+3) Reliance on a single large client could create concentration risk",https://app.microcapresearch.com/news-feed/721399?news=Comprehensive-Healthcare-Systems-Inc.-Signs-Memorandum-of-Understanding-with-Large-Health-Insurance-Administrator-for-a-Five-Year-Partnership,,,,
+1,JFB,Engineering & Construction,10/15/2025,"JFB Construction Holdings Executes $18.8 Million Contract as General Contractor for Public High School in DeSoto County, Florida",Contract Win,USD,123,-4,119,10,12.94,25,-0.17,N/A,N/A,4.83x,N/A,N/A,N/A,"Secured an $18.8 million contract as general contractor for Phase 1 of a three-phase public high school project in DeSoto County, Florida, part of a $100 million total project. Construction begins mid-October 2025, with Phase 1 completion targeted for January 2026. The project expands JFB’s presence in educational construction and leverages its strong balance sheet and bonding capacity to secure larger contracts.","1) $100M project enhances revenue visibility and sector diversification
+2) Phase 1 begins immediately; expected Q4 2025 revenue impact
+3) Strong working capital supports bonding for larger, complex projects
+4) Partnership with experienced school developer reduces execution risk","1) Revenue recognition depends on multi-phase project completion
+2) Construction delays or cost overruns could impact profitability
+3) Reliance on a single large public project may increase concentration risk",https://app.microcapresearch.com/news-feed/721399?news=Comprehensive-Healthcare-Systems-Inc.-Signs-Memorandum-of-Understanding-with-Large-Health-Insurance-Administrator-for-a-Five-Year-Partnership,,,,
+1,CCLD,Packaged Software,10/15/2025,CareCloud to Present at the 2025 Maxim Growth Summit,Corporate Presentation,USD,138,-7,130,42,3.25,112,0.3,0.31,N/A,1.17x,10.83x,10.48x,N/A,"CareCloud announced it will present at the 2025 Maxim Growth Summit on October 22–23, highlighting its AI roadmap, recent acquisitions—including Medsphere and HFMA’s MAP App—and growth strategy. The company has raised 2025 revenue guidance to $116–$118 million and recently joined the Russell Microcap® Index. The presentation aims to showcase CareCloud’s AI Center of Excellence and operational execution to investors and industry leaders.","1) Raised 2025 revenue guidance reflects strong operational execution
+2) Recent acquisitions (Medsphere, HFMA MAP App) expand market footprint
+3) Scaling AI Center of Excellence (~500 professionals) accelerates innovation
+4) Russell Microcap® Index inclusion increases investor visibility and credibility
+","1) Participation at an event is informational; no immediate revenue impact
+2) M&A integration execution risks could affect operational performance
+3) Market expectations may already price in recent guidance upgrades
+4) Dependence on successful AI deployment to drive future growth",https://app.microcapresearch.com/news-feed/721514?news=CareCloud-to-Present-at-the-2025-Maxim-Growth-Summit,,,,
+1,CVE:CMI,Telecommunications Equip.,10/15/2025,C-COM Reports Strong Third Quarter 2025 Results,Earnings Release,CAD,39,-14,25,42,0.92,6,-0.02,N/A,N/A,4.41x,N/A,N/A,N/A,"Reported Q3 2025 revenues of $1.9 million, up 46% YoY, driven by strong demand from defense and oil & gas markets, with 50% of sales from the Middle East. Gross margin remained 52%, and net income was $155K. The company is advancing its Ka-band ESA antennas and Beamformer IC technologies, aiming to expand addressable markets in land, airborne, and maritime satellite communications.","1) Revenue up 46% YoY indicates strong sector demand
+2) Defense and oil & gas markets show international sales growth
+3) Ka-band ESA antennas target next-gen land, maritime, airborne applications
+4) Beamformer IC tech may reduce costs and improve product performance","1) Q3 net income remains modest at $155K on $1.9M revenue
+2) Heavy reliance on Middle Eastern markets (50% of sales)
+3) Commercial rollout of new ESA and BFIC products remains in testing phase
+4) Growth depends on successful adoption of advanced satellite technologies",https://app.microcapresearch.com/news-feed/721514?news=CareCloud-to-Present-at-the-2025-Maxim-Growth-Summit,,,,
+1,AP,Steel,10/15/2025,Ampco-Pittsburgh Subsidiary Accelerates Exit from U.K. Operations,Divestiture,USD,46,130,176,20,2.27,414,-0.08,N/A,N/A,0.42x,N/A,N/A,N/A,"Reported Q3 2025 revenues of $1.9 million, up 46% YoY, driven by strong demand from defense and oil & gas markets, with 50% of sales from the Middle East. Gross margin remained 52%, and net income was $155K. The company is advancing its Ka-band ESA antennas and Beamformer IC technologies, aiming to expand addressable markets in land, airborne, and maritime satellite communications.","1) Accelerated exit reduces operating losses and avoids high wind-down costs
+2) Expected $7–$8 million annualized improvement in adjusted EBITDA
+3) Allows increased capacity utilization at Sweden cast roll facility
+4) Focuses on stronger, sustainable operations globally","1) Non-cash charges of $43–$45 million impact Q4 financial statements
+2) Exit involves placing the U.K. subsidiary into administration, reflecting operational challenges
+3) Potential short-term supply disruptions for U.K. customers
+4) Market perception could be affected by the closure of long-standing operations",https://app.microcapresearch.com/news-feed/721846?news=Ampco-Pittsburgh-Subsidiary-Accelerates-Exit-from-U.K.-Operations,,,,
+1,CREX,Advertising/Marketing Services,10/16/2025,Creative Realities Announces Transformational Acquisition,Acquisition & Earnings,USD,33,21,55,11,3.16,48,-0.19,0.13,0.13,1.13x,N/A,24.31x,24.31x,"Announced the CAD 70 million cash acquisition of Cineplex Digital Media (CDM), expected to close in October 2025. The deal will double the company’s size, expand its North American footprint, and add 6,000+ locations and 30,000 digital endpoints. CDM generates over 60% recurring revenue and is projected to grow 25% in 2025. Expected cost synergies of $10 million annually by 2026 will drive pro forma revenue above USD $100 million and EBITDA margins over 20%. The acquisition will be financed through a $36 million term loan and $30 million in convertible preferred equity.
+
+Preliminary Q3 2025 results showed revenue of $10.5 million and adjusted EBITDA of $0.5–$1 million, below expectations due to a large order shifting to Q4 and a non-cash software impairment related to Stellantis.","1) Doubles company size and expands international presence, particularly in Canada
+2) Expected to be immediately accretive to earnings and generate strong cost synergies
+3) Provides entry into a large DOOH (digital out-of-home) mall network and strengthens recurring revenue base (60% recurring)
+4) Enhances CRI’s AdTech capabilities and data-driven content solutions","1) Q3 2025 preliminary results weaker than expected due to a delayed order and a non-cash impairment
+2) Integration risks tied to combining CDM’s operations and realizing forecasted synergies
+3) Increased leverage from debt financing of the acquisition",https://app.microcapresearch.com/news-feed/722120?news=Creative-Realities-Announces-Transformational-Acquisition,,,,
+1,SURG,Packaged Software,10/16/2025,SurgePays Announces Sequential Revenue Growth of Over 60% for Q3 and Affirms 2026 Revenue Guidance of $225 Million,Preliminary Results,USD,56,6,62,20,2.75,36,-1.48,0.21,N/A,1.70x,N/A,13.10x,N/A,"Estimated Q3 2025 revenue grew sequentially by over 60%. SurgePays affirmed 2026 full-year revenue guidance of $225 million. Growth is driven by multiple channels including Lifeline Wireless, LinkUp Mobile, prepaid top-ups, HERO MVNE services, and the ClearLine SaaS platform. Management highlighted that Lifeline provides near-term profitability while other channels support 2026+ expansion. Operational efficiencies, AT&T integration, and distribution network scale are expected to sustain recurring revenue and long-term growth.","1) Strong sequential revenue growth of 60% in Q3
+2) Multi-channel revenue model with both subsidized and unsubsidized offerings
+3) ClearLine SaaS and fintech POS platforms create recurring revenue opportunities
+4) Strategic integration with AT&T and MVNE capabilities support scalability
+5) Affirmed 2026 revenue guidance, showing visibility and confidence in growth trajectory","1) Revenue growth partially dependent on master distributor and MVNO partner commitments
+2) Execution risks associated with scaling multiple channels, tariffs, and operational complexity
+3) Forward-looking guidance assumes continued market conditions and program funding (e.g., Lifeline)",https://app.microcapresearch.com/news-feed/722362?news=SurgePays-Announces-Sequential-Revenue-Growth-of-Over-60%-for-Q3-and-Affirms-2026-Revenue-Guidance-of-$225-Million,,,,
+1,FSI,Chemicals: Major Diversified,10/16/2025,FSI ANNOUNCES THIRD QUARTER 2025 REVENUE,Preliminary Results,USD,123,-2,121,13,9.70,37,0.19,0.75,N/A,3.25x,51.05x,12.93x,N/A,"Q3 2025 revenue increased to $10.539 million, up 13% from $9.315 million in Q3 2024. Growth was driven by ongoing demand for biodegradable polymers used in oil extraction, detergents, water treatment, and crop nutrient applications, as well as expansion into food and nutrition supplement manufacturing. Management highlighted resilience in challenging market conditions, particularly in agriculture, and anticipates further growth in Q4 2025 with full-scale food-grade production planned for 2026. Complete financial results will be released on November 14, 2025.","1) Year-over-year revenue growth of 13% in Q3 2025
+2) Diversified product portfolio spanning environmental technologies, crop enhancement, and food-grade supplements
+3) FDA food-grade approval achieved for Peru IL plant, supporting entry into food and nutrition markets
+4) Management demonstrates operational resilience in difficult agricultural market conditions","1) Complete financial results not yet available; details on margins, profitability, and costs are pending
+2) Forward-looking growth depends on scaling food-grade production and market acceptance
+3) Market conditions in agriculture and environmental products remain challenging
+4) Business expansion into new markets carries operational and regulatory risks",https://app.microcapresearch.com/news-feed/722617?news=FSI-ANNOUNCES-THIRD-QUARTER-2025-REVENUE,,,,
+1,WW,Other Consumer Services,10/17/2025,"WeightWatchers Launches RxFlexFund™, a New Employer Model for Expanding GLP-1 Coverage",Program Launch,USD,326,325,651,10,32.69,753,-0.11,2.54,3.45,0.86x,N/A,12.87x,9.48x,"Introduced RxFlexFund™, a new employer-focused model that integrates direct GLP-1 drug pricing with flexible employer subsidy options and WeightWatchers’ behavioral and clinical support. The program aims to expand access to GLP-1 treatments by reducing cost variability for employers and improving adherence and outcomes for employees through a comprehensive care model that combines medical, nutritional, and lifestyle components.","1) Innovative GLP-1 coverage model could attract corporate clients and expand revenue streams
+2) Direct pricing from manufacturers enhances transparency and potential cost savings
+3) Holistic care integration may improve long-term clinical outcomes and program adherence
+4) Supports WeightWatchers’ transition toward healthcare and employer-focused offerings","1) Reliance on employer adoption may limit near-term revenue impact
+2) GLP-1 medication costs remain high despite pricing transparency
+3) Requires sustained outcomes data to convince risk-averse corporate clients","https://app.microcapresearch.com/news-feed/722891?news=WeightWatchers-Launches-RxFlexFund%E2%84%A2,-a-New-Employer-Model-for-Expanding-GLP-1-Coverage",,,,
+2,WW,Other Consumer Services,10/20/2025,"WeightWatchers Collaborates With Amazon Pharmacy to Increase Medication Delivery Speed, Convenience and Savings For Members",Partnership,USD,326,325,651,10,32.69,753,-0.11,2.54,3.45,0.86x,N/A,12.87x,9.48x,"Announced a collaboration with Amazon Pharmacy to streamline prescription delivery for WeightWatchers Clinic members. The integration offers real-time medication availability, automatic coupon savings, and rapid home delivery for GLP-1 and other weight management drugs. Members benefit from Amazon’s logistics, including same-day delivery in select areas, while the partnership enhances access, affordability, and adherence to prescribed treatments within WeightWatchers’ comprehensive care model.","1) Partnership with Amazon strengthens credibility and expands reach in healthcare logistics.
+2) Faster, more reliable medication delivery improves member satisfaction and retention.
+3) Automatic coupon integration reduces patient costs, enhancing affordability.
+4) Potential to boost membership growth amid surging GLP-1 demand.""							","1) Reliance on Amazon infrastructure may reduce operational control
+2) Margin pressure possible from pricing transparency and delivery incentives
+3) Execution risk if logistics integration faces technical or regulatory hurdles
+4) GLP-1 supply constraints could limit short-term impact","https://app.microcapresearch.com/news-feed/723244?news=WeightWatchers-Collaborates-With-Amazon-Pharmacy-to-Increase-Medication-Delivery-Speed,-Convenience-and-Savings-For-Members",,,,
+2,SNYR,Pharmaceuticals: Other,10/20/2025,Synergy CHC Corp. (NASDAQ: SNYR) Expands FOCUSfactor® Functional Beverages Across New England Through Atlantic Importing Alliance,Distribution Agreement,USD,28,25,53,11,2.46,34,0.04,0.45,1.02,1.57x,61.50x,5.47x,2.41x,"Announced a distribution partnership with Atlantic Importing Company to expand FOCUSfactor® Focus + Energy beverages and brain-health shots across Massachusetts, Connecticut, and Rhode Island. The agreement enhances Synergy CHC’s retail reach in Southern New England and strengthens its position in the rapidly growing functional beverage market focused on clean energy, focus, and cognitive performance, supporting its broader U.S. expansion strategy for the FOCUSfactor® brand.","1) Expands regional retail footprint across key New England markets
+2) Leverages Atlantic Importing’s strong distributor network for faster market penetration
+3) Positions FOCUSfactor® in high-growth functional beverage segment
+4) Reinforces nationwide rollout and brand visibility momentum","1) Regional focus may limit short-term national revenue impact
+2) Dependence on distributor execution could affect rollout pace
+3) Competitive pressure from established beverage brands in target markets
+4) Need for marketing investment to sustain retail shelf presence",https://app.microcapresearch.com/news-feed/723418?news=Synergy-CHC-Corp.-%28NASDAQ:-SNYR%29-Expands-FOCUSfactor%C2%AE-Functional-Beverages-Across-New-England-Through-Atlantic-Importing-Alliance,,,,
+2,BOF,Food: Specialty/Candy,10/21/2025,BranchOut Food Reports Record Q3; Achieves $16M Annualized Production Run Ra,Earnings Release,USD,34,0,34,12,2.87,11,-0.4,N/A,N/A,3.04x,N/A,N/A,N/A,"Reported record Q3 performance with production reaching breakeven levels at a $16M annualized run rate and revenue up 93% year over year. Current notes payable dropped by 92% following completion of an ATM program. The company achieved operational efficiency gains, expanded capacity with a new EnWave REV™ 120kW purchase, and secured exclusive global rights for dragon fruit production, setting the stage for stronger profitability in 2026.","1) Record production reached breakeven level at $16M run rate
+2) Current notes payable reduced by 92%, improving balance sheet
+3) Exclusive global rights to produce dragon fruit using EnWave technology
+4) Added new CMO to drive retail and e-commerce growth","1) Gross margin only 17%, relying on air shipments for timely deliveries
+2) Heavy R&D and scale-up investments pressured recent margins
+3) Continued dependence on large warehouse club orders","https://app.microcapresearch.com/news-feed/723925?news=BranchOut-Food-Reports-Record-Q3;-Achieves-$16M-Annualized-Production-Run-Rate,-Current-Notes-Payable-Cut-by-92%",,,,
+2,VSEE,Packaged Software,10/21/2025,"VSee Health (Nasdaq:VSEE) Secures Game-Changing 10M+ Teleradiology Contract, Igniting Explosive Growth in Booming Telehealth Sector",Contract,USD,11,12,23,17,0.62,14,-0.22,N/A,N/A,1.64x,N/A,N/A,N/A,"Secured a multi-year $ 10M plus teleradiology contract with a leading Level 1 hospital system, expected to double annual recurring revenue and position the company for additional $ 5M plus in potential revenue. Service began in June 2025, with revenue already being recognized. The deal establishes a foundation for nationwide expansion as the company leverages rising demand in the fast-growing telehealth and diagnostic imaging market.","1) Multi-year $10M teleradiology contract doubles annual recurring revenue
+2) Potential additional $5M in follow-on revenue opportunities
+3) Early revenue recognition signals near-term financial impact
+4) Positioned to capture growth in 20%+ CAGR teleradiology market","1) Overreliance on one large contract for growth narrative
+2) No margin or profitability details disclosed
+3) Press release uses promotional tone over concrete financial metrics
+4) Execution risk tied to scaling national expansion efforts","https://app.microcapresearch.com/news-feed/724118?news=VSee-Health-(Nasdaq:VSEE)-Secures-Game-Changing-10M+-Teleradiology-Contract,-Igniting-Explosive-Growth-in-Booming-Telehealth-Sector",,,,
+2,CGEH,Electrical Products,10/21/2025,Capstone Green Energy and Microgrids 4 AI Announce 800 VDC On-Site Power to Chip Next-Generation AI Infrastructure,Partnership/Product Launch,USD,52,49,102,19,2.70,98,-0.09,N/A,N/A,1.04x,N/A,N/A,N/A,"Announced an 800-volt direct-current microturbine system developed with Microgrids 4 AI to power next-generation AI infrastructure. The system eliminates AC/DC conversion stages, improves efficiency up to 5%, and aligns with NVIDIA’s emerging data center standards. The collaboration integrates Capstone’s microturbines with MG4AI’s modular, liquid-cooled data center systems to deliver scalable, grid-independent “AI Power Blocks” capable of supporting deployments from 20 MW to over 1 GW.","1) New 800 VDC microturbine aligns with NVIDIA’s next-gen AI data center architecture
+2) Improves power efficiency up to 5% and reduces copper use by 45%
+3) Partnership creates scalable, modular “AI Power Blocks” for sovereign AI deployments
+4) Positions company in rapidly growing AI infrastructure power market","1) Collaboration not yet under definitive agreement
+2) Financial condition remains weak; going-concern risk disclosed
+3) Heavy reliance on future AI infrastructure adoption
+4) Execution and financing risk for large-scale deployment remains high",https://app.microcapresearch.com/news-feed/724225?news=Capstone-Green-Energy-and-Microgrids-4-AI-Announce-800-VDC-On-Site-Power-to-Chip-Next-Generation-AI-Infrastructure,,,,
+2,SNYR,Pharmaceuticals: Other,10/22/2025,"Synergy CHC (NASDAQ: SNYR) Deepens FOCUSfactor® Expansion with Kroger, PriceSmart & Wakefern — Strengthening U.S., Canada, and Global Reach",Distribution Agreement,USD,28,25,53,11,2.46,34,0.04,0.45,1.02,1.57x,61.50x,5.47x,2.41x,"Announced major retail authorizations expanding FOCUSfactor® supplements and beverages across the U.S., Canada, and international markets. Kroger will carry supplements in 1,600 stores, Wakefern will launch beverages in 365 locations, and PriceSmart will introduce 12-packs in 47 clubs across 13 countries. Additional U.S. and Canadian placements strengthen cross-border visibility and position the brand for continued growth in the functional beverage and brain health categories.","1) Nationwide rollout with Kroger and Wakefern expands U.S. retail footprint
+2) PriceSmart partnership opens 13-country Latin America and Caribbean market
+3) Canadian pharmacy and grocery placements boost cross-border visibility
+4) Growing presence in high-demand functional beverage and brain health segments","1) Heavy reliance on retail sell-through success in 2026 launches
+2) Margin pressure possible from multi-channel expansion costs
+3) Competitive functional beverage market may limit early traction
+4) No financial guidance or projected revenue impact disclosed","https://app.microcapresearch.com/news-feed/724728?news=Synergy-CHC-(NASDAQ:-SNYR)-Deepens-FOCUSfactor%C2%AE-Expansion-with-Kroger,-PriceSmart-&amp;-Wakefern-%E2%80%94-Strengthening-U.S.,-Canada,-and-Global-Reach",,,,
+2,RFIL,Electronic Components,10/22/2025,RF Industries Announces an Additional $2 Million Order from Leading Aerospace Company,Contract,USD,85,24,109,11,7.97,76,0.02,0.35,N/A,1.43x,398.50x,22.77x,N/A,Received an additional $2 million order from a leading aerospace customer for custom cabling solutions through its Cables Unlimited division. The order builds on strong momentum in the aerospace market and reflects recent investments in certifications and manufacturing capabilities. The company highlighted diversification across customers and markets as key to sustaining topline growth heading into fiscal year-end 2025.,"1) $2M follow-on order strengthens aerospace segment momentum
+2) Reinforces credibility with major aerospace customer
+3) Investments in certifications driving repeat business
+4) Supports diversification strategy across markets and applications","1) No timeline or margin details provided for order fulfillment
+2) Limited visibility on total contract size or backlog impact
+3) Heavy reliance on a few large customers for growth
+4) Press release lacks quantitative growth or revenue guidance",https://app.microcapresearch.com/news-feed/725011?news=RF-Industries-Announces-an-Additional-$2-Million-Order-from-Leading-Aerospace-Company,,,,
+2,ESP,Electronic Components,10/22/2025,Espey Mfg. & Electronics Corp. (NYSE American: ESP) Announces Completion of Magnetics Center of Excellence Facility Expansion,Facility Expansion,USD,114,-44,70,3,38.98,44,2.26,N/A,N/A,1.60x,17.25x,N/A,N/A,"Completed a 24,000-square-foot Magnetics Center of Excellence, now fully operational for production and testing. Funded in part by a $7.4 million U.S. Navy grant, the facility enhances testing power, supports MIL-STD transformer and inductor production, and strengthens domestic supply chains. The expansion positions the company for scalable growth in advanced magnetics systems and reinforces its role in the Surface Combatant Industrial Base Development Initiative.","1) New facility boosts production and MIL-STD testing capabilities
+2) $7.4M U.S. Navy grant demonstrates government support
+3) Positions company for scalable growth and domestic supply chain strength
+4) Enhances market leadership in advanced magnetics systems","1) No incremental revenue or margin projections disclosed
+2) Dependent on continued government funding for military programs
+3) Expansion costs may pressure near-term cash flow
+4) Market adoption outside military/industrial sectors not detailed",https://app.microcapresearch.com/news-feed/725085?news=Espey-Mfg.-&amp;-Electronics-Corp.-(NYSE-American:-ESP)-Announces-Completion-of-Magnetics-Center-of-Excellence-Facility-Expansion,,,,
+2,CVE:ECOM,Internet Retail,10/22/2025,"EMERGE Reports Strong Preliminary Q3 Results, Provides Webcast Details",Preliminary Earnings Release,CAD,13,4,17,149,0.1,24,0,N/A,N/A,0.73x,N/A,N/A,N/A,"Reported preliminary Q3 2025 results, showing revenue of CA$ 7.0M (up 58% YoY), adjusted EBITDA of CA$ 200K–250K (vs. a CA$ 254K loss last year), and cash of CA$ 4.0M. Strong growth was driven by organic performance across its grocery and golf verticals, notably T2G. The company will release full audited results in late November 2025 and hosted a webcast presentation at the Planet MicroCap Showcase.","1) Revenue up 58% YoY, indicating strong growth momentum
+2) Adjusted EBITDA turned positive, improving ~$450–500K YoY
+3) Cash position increased to $4.0M, supporting liquidity and operations
+4) Both verticals showed positive organic growth, indicating diversified strength","1) Results are preliminary and unaudited; figures may materially change
+2) Q3 is historically seasonal; growth may not persist in off-peak periods
+3) Reliance on T2G’s performance could create concentration risk
+4) Full financials and audit adjustments pending, creating short-term uncertainty",https://www.emerge-commerce.com/news/News/news-details/2025/EMERGE-Reports-Strong-Preliminary-Q3-Results-Provides-Webcast-Details/default.aspx,,,,
+2,CVE:NURS,Drugstore Chains,10/23/2025,Hydreight Reports Corporate Update and Ranks #25 on Deloitte’s 2025 Technology Fast 50™,Corporate Update,CAD,225,-6,219,27,4.77,18,0,0.29,0.55,11.87x,N/A,16.45x,8.67x,"Processed ~295,000 VSDHOne product orders in Q3, expanding nurse network by 198 sign-ups (+49% YoY). Pharmacy orders rose ~72% YoY, supported by a CA$18.7M cash position. Ranked #25 on Deloitte’s 2025 Technology Fast 50™ (Canada) and recognized in multiple industry awards. Continued rollout of GLP-1 and D2C programs, integration with 503A/503B pharmacy partners, and upcoming VSDHOne V2 platform aim to scale nationwide telehealth operations profitably and compliantly.","1) Strong operational scale: ~295,000 product orders in Q3
+2) Nurse network growth +49% YoY, expanding service capacity
+3) Cash position CA$18.7M supports growth and M&A pipeline
+4) Launch of VSDHOne V2 enhances automation, scalability, modularity","1) Rapid expansion may strain operational or compliance oversight
+2) Heavy reliance on GLP-1 and D2C verticals for growth
+3) M&A pipeline introduces integration and execution risk
+4) Awards and rankings highlight growth, but do not guarantee profitability
+
+
+
+
+
+",https://app.microcapresearch.com/news-feed/725250?news=Hydreight-Reports-Corporate-Update-and-Ranks-%2325-on-Deloitte%E2%80%99s-2025-Technology-Fast-50%E2%84%A2,,,,
+2,VSEE,Packaged Software,10/23/2025,VSee Health Strengthens Balance Sheet With The Elimination of Debt,Debt Reduction Update,USD,11,12,23,17,0.62,14,-0.22,N/A,N/A,1.64x,N/A,N/A,N/A,"Eliminated over $5M in legacy SPAC debt, strengthening the balance sheet and enhancing NASDAQ compliance. Record-setting revenue growth continues alongside improved creditor confidence, positioning the company for sustainable, long-term expansion. Leadership emphasized shareholder support and a new growth chapter, while forward-looking statements highlight ongoing telehealth platform development integrating secure video, device data, and EHR connectivity across U.S. hospital systems, health networks, and employers.","1) Eliminated $5M in legacy debt, reducing financial risk
+2) Strengthened balance sheet enhances NASDAQ listing compliance
+3) Record revenue growth signals operational and market traction
+4) Improved creditor confidence supports potential future financing","1) Debt elimination may be one-time; long-term profitability not specified
+2) Limited operational details beyond revenue growth; scalability unclear
+3) Reliance on telehealth adoption trends could impact growth",https://app.microcapresearch.com/news-feed/725502?news=VSee-Health-Strengthens-Balance-Sheet-With-The-Elimination-of-Debt,,,,
+2,CVE:IVX,Building Products,10/23/2025,Inventronics Announces 2025 Q3 Financial Results,Earnings Release,USD,4,1,5,5,0.84,8,0.03,N/A,N/A,0.66x,28.00x,N/A,N/A,"Reported Q3 2025 net earnings of CA$ 112K (2.3¢ per share) on CA$ 2.08M revenue, up from CA$ 31K on CA$ 1.61M revenue in Q3 2024. Nine-month net earnings reached CA$ 433K (8.9¢ per share) on CA$ 6.70M revenue, compared to CA$ 180K on CA$ 5.01M revenue in the prior year. Working capital increased to CA$ 1.92M, long-term debt declined to CA$ 2.10M, and shareholders’ equity rose to CA$ 2.72M.","1) Revenue and net earnings both increased significantly YoY
+2) Nine-month earnings more than doubled compared to prior year
+3) Working capital improved, suggesting stronger liquidity
+4) Long-term debt declined, reducing financial leverage","1) Property, plant, and equipment slightly decreased, may indicate limited CAPEX growth
+2) Growth concentrated in North American markets; limited geographic diversification
+3) No forward guidance or outlook provided",https://app.microcapresearch.com/news-feed/725939?news=Inventronics-Announces-2025-Q3-Financial-Results,,,,
+2,PMTS,Finance/Rental/Leasing,10/23/2025,CPI Card Group® Celebrates Grand Opening of New Fort Wayne Production Facility on Oct. 23,Facility Expansion,USD,197,305,502,11,17.34,502,1.16,2.99,3.47,1.00x,14.95x,5.80x,5.00x,"Opened a new Fort Wayne production facility, more than twice the size of the former site, with all three production lines expected operational by year-end. The facility features automation, AI, co-bots, and inline production to enhance efficiency, quality, and speed to market. Nearly 200 employees are based at the site, with a focus on environmental efficiency, renewable energy, and pursuing LEED certification.","1) Doubled production capacity with modern automation and AI
+2) All three production lines operational by year-end
+3) Improved speed, quality, and efficiency for card production
+4) Environmental initiatives may reduce costs and enhance corporate image","1) No financial metrics or cost projections provided
+2) Expansion likely increases capital expenditure and operational overhead
+3) Success depends on ramping new production lines without disruption
+4) Benefits to revenue and margins are not quantified yet",https://app.microcapresearch.com/news-feed/725970?news=CPI-Card-Group%C2%AE-Celebrates-Grand-Opening-of-New-Fort-Wayne-Production-Facility-on-Oct.-23,,,,
+2,BURCA,Industrial Machinery,10/23/2025,"Burnham Holdings, Inc. Announces Third Quarter 2025 Financial Results",Earnings Release,USD,117,13,130,3,25,270,2.2,N/A,N/A,0.48x,11.36x,N/A,N/A,"Reported Q3 2025 net sales of $ 58.3M, up 5.3% YoY, and net income of $ 1.6M ($ 0.35/share), more than doubling prior-year earnings. Year-to-date net sales reached $ 167.0M with $ 9.9M net income. Adjusted EBITDA and earnings per share improved. Strategic portfolio adjustments included divestitures, Crown Boiler wind-down, and a $ 90M pension annuity transfer to reduce obligations. Subsidiary asbestos litigation remains ongoing, with potential coverage for punitive damages under insurance policies.","1) Net sales and earnings grew steadily, showing operational execution
+2) Adjusted EBITDA and EPS improved YoY, highlighting profitability gains
+3) Pension annuity transfer reduces long-term obligations and financial risk
+4) Strategic portfolio adjustments focus resources on higher-growth areas","1) Subsidiary faces asbestos litigation with potential $6.5M punitive exposure
+2) Non-cash $20.8M pension settlement charge in Q4 may impact reported results
+3) Crown Boiler wind-down incurred $3.3M impairment charges
+4) SG&A increased significantly, which could pressure margins if growth slows","https://app.microcapresearch.com/news-feed/725980?news=Burnham-Holdings,-Inc.-Announces-Third-Quarter-2025-Financial-Results",,,,
+2,TSE:HPS.A,Electrical Products,10/23/2025,Hammond Power Solutions Reports Third Quarter 2025 Financial Results,Earnings Release,CAD,"1,637",54,"1,691",9,179.52,853,5.69,7.82,8.56,1.98x,31.55x,22.96x,20.97x,"Reported Q3 2025 sales of CA$ 218 million, up 13.7% year-over-year, with net earnings of CA$ 17.4 million and adjusted EPS of CA$ 1.56. Backlog rose 27.7% year-to-date, driven by accelerating data center demand. While U.S. sales grew 21.5%, gross margin fell to 30.1% due to tariffs, inflation, and higher overhead from new Mexican facilities. Subsequent large data center orders equal to 53% of Q3 backlog are slated for 2026 delivery.","1) Backlog up 27.7% year-to-date, signaling strong forward demand
+2) Major data center orders booked post-quarter, 53% of Q3 backlog
+3) U.S. sales surged 21.5% YoY, led by data center and private label growth
+4) Expanding Mexico facilities to handle new volume supports long-term capacity","1) Gross margin declined 370 bps year-over-year due to tariffs and inflation
+2) Adjusted EBITDA fell 11.9% versus prior-year quarter
+3) Working capital pressures from higher inventory and shipping delays
+4) Inflation and new facility costs continue to weigh on profitability",https://www.globenewswire.com/news-release/2025/10/23/3172541/0/en/Hammond-Power-Solutions-Reports-Third-Quarter-2025-Financial-Results.html,,,,
+2,DERM,Pharmaceuticals: Major,10/24/2025,Journey Medical Corporation Reports Combined Emrosi™ (DFD-29) Phase 3 Clinical Trial Efficacy Data Analysis Presented at the 2025 Fall Clinical Dermatology Conference,Clinical Data,USD,152,5,156,20,7.46,56,-0.28,0.35,1.24,2.77x,N/A,21.31x,6.02x,"Presented pooled Phase 3 trial results showing Emrosi™ (DFD-29) achieved significantly higher Investigator’s Global Assessment success (62.7%) and greater reduction in inflammatory lesions than both Oracea® and placebo (p<0.001). The studies confirmed strong efficacy and safety with no serious adverse events. Findings, presented at the 2025 Fall Clinical Dermatology Conference, reinforce Emrosi’s potential as a superior treatment option for rosacea and support broader commercial adoption.","1) Demonstrated statistically superior efficacy to both Oracea and placebo (p<0.001)
+2) No major safety issues or serious adverse events reported
+3) FDA-approved and already commercially available in the U.S. market
+4) Data presentation enhances physician awareness and product credibility in dermatology community","1) Success depends on continued market adoption and reimbursement acceptance
+2) Faces competition from established treatments like Oracea
+3) Relies heavily on one flagship product for near-term growth
+4) Potential safety risks typical of tetracycline-class drugs remain noted in label warnings",https://app.microcapresearch.com/news-feed/726124?news=Journey-Medical-Corporation-Reports-Combined-Emrosi%E2%84%A2-(DFD-29)-Phase-3-Clinical-Trial-Efficacy-Data-Analysis-Presented-at-the-2025-Fall-Clinical-Dermatology-Conference,,,,
+2,MUEL,Industrial Machinery,10/24/2025,Paul Mueller Company Announces Its Third Quarter Earnings of 2025,Earnings Release,USD,473,-35,439,1,509,263,0,N/A,N/A,1.67x,12.66x,N/A,N/A,"Reported Q3 2025 net income of $4.9M ($5.25 per share), down from $7.3M last year, on slightly lower sales of $61.4M. Nine-month earnings rose to $21.4M as backlog reached $250.4M, up sharply year-over-year even after removing a $50.2M canceled pharmaceutical project. The company also declared a $0.30 dividend and announced a $485-per-share tender offer expiring November 21, 2025.","1) Backlog rose 46% year-over-year despite removal of large canceled order
+2) Announced $485 per share tender offer, signaling strong balance sheet and shareholder value focus
+3) Dividend declared for Q4, reinforcing consistent capital returns
+4) Solid nine-month earnings up 16% year-over-year","1) Q3 profit dropped 33% year-over-year due to higher costs on two pharma projects
+2) One major $50.2 million project canceled, slightly offset by new $20 million order
+3) Gross margin compressed from higher labor and contract expenses
+4) Cash decreased by $7.4 million year-to-date from heavy capex and working capital buildup",https://app.microcapresearch.com/news-feed/726325?news=Paul-Mueller-Company-Announces-Its-Third-Quarter-Earnings-of-2025,,,,
